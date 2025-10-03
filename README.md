@@ -1,0 +1,1 @@
+# aguasprata-app-chck
