@@ -47,7 +47,7 @@
     "props": {
       "title": "Aguas Prata",
       "href": "https://www.aguasprata.com.br/",
-      "url": "assets/logo-prata",
+      "url": "assets/logo-prata.png",
       "width": "180"
     }
   },
@@ -75,7 +75,7 @@
     "props": {
       "title": "Aguas Prata",
       "href": "https://www.aguasprata.com.br/",
-      "url": "assets/logo-prata.svg",
+      "url": "assets/logo-prata.png",
       "width": "90"
     }
   }
